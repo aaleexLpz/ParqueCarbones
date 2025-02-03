@@ -2,7 +2,7 @@
 
 ## 📖 Descripción
 
-Esta aplicación permite gestionar la entrada de camiones al parque de carbones, registrar sus datos y analizar la información de ingreso mediante reportes y gráficos.
+Esta aplicación permite gestionar la entrada de camiones a un parque de carbones, registrar datos de las cargas y analizar la información de ingreso mediante gráficos.
 
 ## 🚀 Funcionalidades Principales
 
@@ -11,8 +11,6 @@ Esta aplicación permite gestionar la entrada de camiones al parque de carbones,
 - 🔍 Filtrado por Fecha y Camión: Posibilita la consulta de entradas de un camión específico en un rango de fechas.
 
 - 📊 Gráficos Comparativos: Genera reportes gráficos que muestran la cantidad de carbón ingresado por día y hora.
-
-- 🚛 Gestión de Permisos: Determina si un camión tiene permiso para ingresar al parque.
 
 - 📂 Exportación de Datos: Permite exportar los datos de entrada a un archivo CSV.
 
